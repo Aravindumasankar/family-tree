@@ -1,0 +1,16 @@
+{
+  "name": "familytree",
+  "version": "1.0.0",
+  "description": "Family Tree ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aravindumasankar",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}

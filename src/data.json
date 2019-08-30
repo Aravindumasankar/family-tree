@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1,
+        "level": 0,
+        "name": "king shan",
+        "gender": "M",
+        "spouse": "queen anga",
+        "mother": null
+    },
+    {
+        "id": 2,
+        "level": 0,
+        "name": "Queen Anga",
+        "gender": "F",
+        "spouse": "King Shan",
+        "mother": null
+    },
+    {
+        "id": 3,
+        "level": 1,
+        "name": "Chit",
+        "gender": "M",
+        "spouse": "Amba",
+        "mother": "Queen Anga"
+    },
+    {
+        "id": 4,
+        "level": 1,
+        "name": "Ish",
+        "gender": "M",
+        "spouse": null,
+        "mother": "Queen Anga"
+    },
+    {
+        "id": 5,
+        "level": 1,
+        "name": "Vich",
+        "gender": "M",
+        "spouse": "Lika",
+        "mother": "Queen Anga"
+    },
+    {
+        "id": 6,
+        "level": 1,
+        "name": "Aras",
+        "gender": "M",
+        "spouse": "Chitra",
+        "mother": "Queen Anga"
+    },
+    {
+        "id": 7,
+        "level": 1,
+        "name": "Satya",
+        "gender": "F",
+        "spouse": "Vyan",
+        "mother": "Queen Anga"
+    },
+    {
+        "id": 8,
+        "level": 1,
+        "name": "Amba",
+        "gender": "F",
+        "spouse": "Chit",
+        "mother": null
+    },
+    {
+        "id": 9,
+        "level": 1,
+        "name": "Lika",
+        "gender": "M",
+        "spouse": "Vich",
+        "mother": null
+    },
+    {
+        "id": 9,
+        "level": 1,
+        "name": "Chitra",
+        "gender": "F",
+        "spouse": "Aras",
+        "mother": null
+    },
+    {
+        "id": 10,
+        "level": 1,
+        "name": "Vyan",
+        "gender": "M",
+        "spouse": "Satya",
+        "mother": null
+    },
+    {
+        "id": 11,
+        "level": 2,
+        "name": "Dritha",
+        "gender": "F",
+        "spouse": "Jaya",
+        "mother": "Amba"
+    },
+    {
+        "id": 12,
+        "level": 2,
+        "name": "Jaya",
+        "gender": "M",
+        "spouse": "Dritha",
+        "mother": null
+    },
+    {
+        "id": 13,
+        "level": 2,
+        "name": "Tritha",
+        "gender": "F",
+        "spouse": null,
+        "mother": "Amba"
+    },
+    {
+        "id": 14,
+        "level": 2,
+        "name": "Vritha",
+        "gender": "M",
+        "spouse": null,
+        "mother": "Amba"
+    },
+    {
+        "id": 15,
+        "level": 2,
+        "name": "Vila",
+        "gender": "F",
+        "spouse": null,
+        "mother": "Lika"
+    },
+    {
+        "id": 16,
+        "level": 2,
+        "name": "Chika",
+        "gender": "F",
+        "spouse": null,
+        "mother": "Lika"
+    },
+    {
+        "id": 17,
+        "level": 2,
+        "name": "Ahit",
+        "gender": "M",
+        "spouse": null,
+        "mother": "Chitra"
+    },
+    {
+        "id": 18,
+        "level": 2,
+        "name": "Jnki",
+        "gender": "F",
+        "spouse": "Arit",
+        "mother": "Chitra"
+    },
+    {
+        "id": 19,
+        "level": 2,
+        "name": "Arit",
+        "gender": "M",
+        "spouse": "Jnki",
+        "mother": "null"
+    },
+    {
+        "id": 20,
+        "level": 2,
+        "name": "Asva",
+        "gender": "M",
+        "spouse": "Satvy",
+        "mother": "Satya"
+    },
+    {
+        "id": 21,
+        "level": 2,
+        "name": "Satvy",
+        "gender": "F",
+        "spouse": "Asva",
+        "mother": null
+    },
+    {
+        "id": 22,
+        "level": 2,
+        "name": "Vyas",
+        "gender": "M",
+        "spouse": "Krpi",
+        "mother": "Satya"
+    },
+    {
+        "id": 23,
+        "level": 2,
+        "name": "Krpi",
+        "gender": "F",
+        "spouse": "Vyas",
+        "mother": null
+    },
+    {
+        "id": 24,
+        "level": 2,
+        "name": "Atya",
+        "gender": "F",
+        "spouse": null,
+        "mother": "Satya"
+    },
+    {
+        "id": 25,
+        "level": 3,
+        "name": "Yodhan",
+        "gender": "M",
+        "spouse": null,
+        "mother": "Dritha"
+    },
+    {
+        "id": 26,
+        "level": 3,
+        "name": "Laki",
+        "gender": "M",
+        "spouse": null,
+        "mother": "Jnki"
+    },
+    {
+        "id": 27,
+        "level": 3,
+        "name": "Lavnya",
+        "gender": "F",
+        "spouse": null,
+        "mother": "Jnki"
+    },
+    {
+        "id": 28,
+        "level": 3,
+        "name": "Vasa",
+        "gender": "M",
+        "spouse": null,
+        "mother": "Satvy"
+    },
+    {
+        "id": 29,
+        "level": 3,
+        "name": "Kriya",
+        "gender": "M",
+        "spouse": null,
+        "mother": "Krpi"
+    },
+    {
+        "id": 30,
+        "level": 3,
+        "name": "Krithi",
+        "gender": "F",
+        "spouse": null,
+        "mother": "Krpi"
+    }
+
+    
+]
